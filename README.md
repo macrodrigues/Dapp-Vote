@@ -2,7 +2,7 @@
 
 Blockchain based E-Vote to improve transparency in the voting system.
 
-This app is mainly aimed for the portuguese voting system. However everything is written in english.
+The app was built around the portuguese voting system, however it can be easily implemented in any order system.
 
 It is a simple app, which was developed mainly to improve my programming skills.
 
